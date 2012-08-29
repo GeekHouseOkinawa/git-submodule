@@ -1,0 +1,6 @@
+[submodule "submon1"]
+	path = submon1
+	url = ./submon1
+[submodule "submon2"]
+	path = submon2
+	url = ./submon2
